@@ -1,7 +1,7 @@
--------------------------------------Surface Water Storage Calculation---------------------------------
-------------------Laboratoire d’Études en Géophysique et Océanographie Spatiales (LEGOS)---------------
---------------------------Université Toulouse III – Paul Sabatier (UPS3)-------------------------------
---------------------------------------Version 1.0 by Benjamin Kitambo---------------------------------
+---------------------------------------------------Surface Water Storage Calculation------------------------------------------------
+------------------------------Laboratoire d’Études en Géophysique et Océanographie Spatiales (LEGOS)--------------------------------
+----------------------------------------------Université Toulouse III – Paul Sabatier (UPS3)----------------------------------------
+-----------------------------------------------------Version 1.0 by Benjamin Kitambo------------------------------------------------
 
 This repository consists of code to run the reproducibility of the hypsometric curve approach dataset 
 of Surface Water Storage (SWS) that allows the application of the method elsewhere. The input data 
