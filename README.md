@@ -1,6 +1,6 @@
-------------------------------------Surface Water Storage Calculation---------------------------------
------------------Laboratoire d’Études en Géophysique et Océanographie Spatiales (LEGOS)---------------
---------------------------Université Toulouse III – Paul Sabatier (UPS3)------------------------------
+-------------------------------------Surface Water Storage Calculation---------------------------------
+------------------Laboratoire d’Études en Géophysique et Océanographie Spatiales (LEGOS)---------------
+--------------------------Université Toulouse III – Paul Sabatier (UPS3)-------------------------------
 --------------------------------------Version 1.0 by Benjamin Kitambo---------------------------------
 
 This repository consists of code to run the reproducibility of the hypsometric curve approach dataset 
