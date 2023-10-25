@@ -101,6 +101,7 @@ import sys
 import csv
 from scipy import interpolate
 from itertools import accumulate
+#print('test')
 
 PATH_IN = r"D:\thesis_Kitambo\global_dataset"
 PATH_IN1 = r"D:\FABDEM_AF\Output\Mosaic_f_AF.tif"
